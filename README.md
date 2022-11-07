@@ -1,4 +1,4 @@
-<div width =750; height=250>
+<div width:750; height:250>
 <p align="center">
   <img src="hai there.gif" alt="animated" />
 </p>
