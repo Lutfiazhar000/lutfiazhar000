@@ -1,9 +1,3 @@
-<style>
-  .container div {
-  width = 750px;
-  }
-</style>
-
 <body>
   <div class="container">
     <p align="center">
@@ -12,5 +6,11 @@
     <p align="justify">
       my name is lutfi ashari or you can call me hari. I'm just a library and information science graduate who is starting to learn about programming
     </p>
-    </div>
+   </div>
 </body>
+</html>
+
+
+
+
+
