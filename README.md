@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">I'm hari</h1>
-<h5 align="center">I'm just a library and information science graduate who is starting to learn about programming</h5>
+<hp align="center">I am a fresh graduate of the Library and Islamic Information Sciences Program at Sayyid Ali Rahmatullah State Islamic University.</p>
 
 <p align="left"> <a href="https://twitter.com/lutfiazhar00" target="blank"><img src="https://img.shields.io/twitter/follow/lutfiazhar00?logo=twitter&style=for-the-badge" alt="lutfiazhar00" /></a> </p>
 
